@@ -8,6 +8,10 @@ Solution: Use Express to handle routing.
 
 Technical Approach: The `server.js` file will require several npm packages: `express`, `body-parser`, and `path `.  The app will use Express to handle routing.
 
+### Friend Finder Heroku App
+
+[Link to FriendFinder Heroku App](https://friendfinder-week13.herokuapp.com/)
+
 ### GitHub Repository
 
 [Link to FriendFinder GitHub Repository](https://github.com/jRol/FriendFinder)
